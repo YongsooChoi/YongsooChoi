@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Algorithm Practice
+- Solving algorithm problems with JavaScript / TypeScript
+- Focus on data structures frequently asked in frontend interviews
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yongsoochoi)
